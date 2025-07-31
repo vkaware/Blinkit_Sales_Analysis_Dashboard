@@ -49,7 +49,7 @@ The objective of this project is to design and develop a comprehensive Power BI 
 
 ---
 
-## 📷 Screenshots
+## 📷 Dashboard Screenshots
 
 ![Dashboard](https://github.com/vkaware/Blinkit_Sales_Analysis_Dashboard/blob/main/Blinkit_Sales.png)
 
